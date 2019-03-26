@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Charmonman', cursive;
+}
+li {
+    font-family: 'Charmonman', cursive;
+}
+p{
+    font-family: 'Charmonman', cursive;
+}
+p{ 
+    Color:grey;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+img{
+    border-color: red;
+}
+body{
+    background-image:url("https://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-08.jpg");
+}
+h1, p, ul, li{ 
+    Text-align: center;
+}
